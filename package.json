@@ -1,0 +1,16 @@
+
+{
+  "name": "chatbot-antojitos",
+  "version": "1.0.0",
+  "description": "Chatbot de WhatsApp para el emprendimiento ANTOJITOS",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
